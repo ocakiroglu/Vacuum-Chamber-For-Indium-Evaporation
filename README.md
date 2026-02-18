@@ -55,3 +55,7 @@ The top lid is designed for easy removal to access the sample.
 |   └── VacuumChamber.png
 |   └── VacuumChamberWithBoat.png
 └── README.md
+
+## 📜 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
